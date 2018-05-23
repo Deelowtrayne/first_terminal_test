@@ -6,6 +6,16 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Luvuyo Sono",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deelowtrayne/first_terminal_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deelowtrayne/first_terminal_test/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
